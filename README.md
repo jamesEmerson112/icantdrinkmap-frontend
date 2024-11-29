@@ -12,10 +12,10 @@
 |    └── Configure ESLint and Prettier for code quality [To Do]|
 |                                                            |
 | **2. UI/UX Design**                                        |
-|    ├── Create wireframes and mockups               [To Do] |
-|    ├── Define user flow and navigation             [To Do] |
-|    ├── Choose color schemes and typography         [To Do] |
-|    └── Ensure responsive design principles         [To Do] |
+|    ├── Create wireframes and mockups               [Completed] |
+|    ├── Define user flow and navigation             [Completed] |
+|    ├── Choose color schemes and typography         [Completed] |
+|    └── Ensure responsive design principles         [Completed] |
 |                                                            |
 | **3. Integration with Google Maps and WebGL**              |
 |    ├── Set up Google Maps JavaScript API          [To Do]  |
